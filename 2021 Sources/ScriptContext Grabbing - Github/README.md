@@ -1,2 +1,0 @@
-# ScriptContext-Grabbing
-Yeet
